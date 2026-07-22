@@ -33,6 +33,14 @@ Research Experience
 - **Research Intern, Shanghai AI Lab** (June 2023 – December 2023)
   - Advisor: Prof. Yu Cheng
 
+Publications
+======
+A selected list of my publications is shown below. For the complete list, please visit the [Publications](../publications/) page.
+
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
 Skills
 ======
 **Research Areas**
